@@ -1,6 +1,6 @@
-# Project Airloop
+# Project AerialLoop
 
-Here is the finished project in the tecnical interview of Airloop, its a vuejs project when i use
+Here is the finished project in the tecnical interview of AerialLoop, its a vuejs project when i use
 only vuejs, css
 ![image-project](https://github.com/luisangel2895/airloop-tecnical/blob/00223775cf29f0e1259643c0be3341565b388d28/images/Screenshot_1.png)
 
